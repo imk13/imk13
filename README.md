@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kotlin + Dropwizard project**
 
-- 🌱 I’m currently exploring **space tech.**
+- 🌱 I’m currently exploring **space tech ** just for fun
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
