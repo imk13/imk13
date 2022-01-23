@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mukesh Kumar</h1>
-<h3 align="center">Passionately Curions!</h3>
+<h1 align="left">Hi 👋, I'm Mukesh Kumar</h1>
+<h3 align="left">Passionately Curions!</h3>
 
 - 🔭 I’m currently working on **Kotlin + Dropwizard project**
 
