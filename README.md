@@ -1,5 +1,9 @@
 <h1 align="left">Hi 👋, I'm Mukesh Kumar</h1>
 <h3 align="left">Passionately Curions!</h3>
+<p>
+I am a Software Engineer currently living in Bangalore, India. My interests range from technology to programming. 
+I am also interested in entrepreneurship, gaming, and travel.
+</p>
 
 - 🔭 I’m currently working on **Kotlin + Dropwizard project**
 
