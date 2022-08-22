@@ -1,12 +1,13 @@
 <h1 align="left">Hi 👋, I'm Mukesh Kumar</h1>
 <h3 align="left">Passionately Curions!</h3>
 <p>I am a Software Engineer currently living in Bangalore, India. My interests range from technology to programming. I am also interested in entrepreneurship, gaming, and travel.</p>
-<p>[Mukesh_Kumar_Resume](https://github.com/imk13/imk13/files/9391796/Mukesh_Kumar_Timeline_06_2022.2.pdf)
-</p>
 
 - 🔭 I’m currently working on **Kotlin + Dropwizard project**
 
 - 🌱 I’m currently exploring **space tech** just for fun
+
+<h3 align="left">Resume:</h3>
+<p><a href="https://github.com/imk13/imk13/files/9391796/Mukesh_Kumar_Timeline_06_2022.2.pdf">Mukesh_Kumar_Timeline_2022</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
