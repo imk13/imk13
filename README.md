@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, There</h1>
+<h1 align="left">Hi 👋, I am Mukesh</h1>
 <h3 align="left">Passionately Curious!</h3>
 <p>I am a Software Engineer currently living in Bangalore, India. My interests range from technology to programming. I am also interested in entrepreneurship, gaming, and travel.</p>
 
