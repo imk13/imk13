@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I am Mukesh</h1>
 <h3 align="left">Passionately Curious!</h3>
-<p>Seasoned Software Engineer with over 10+ years of expertise in developing high-performance applications, India. My interests range from technology to programming. I am also interested in entrepreneurship, gaming, and travel. </p>
+<p>Seasoned Software Engineer with over **10+** years of expertise in developing **high-performance** applications, India. </p>
+<p>My interests range from technology to programming. I am also interested in entrepreneurship, gaming, and travel. </p>
 
 - 🔭 I’m currently working on **Kotlin + Dropwizard project**
 
