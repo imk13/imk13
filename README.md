@@ -7,7 +7,7 @@
 - 🌱 I’m currently exploring **space tech** just for fun
 
 <h3 align="left">Resume:</h3>
-<p><a href="https://github.com/imk13/imk13/blob/main/Mukesh%20Timeline%202026-11.pdf" target="_blank">Resume Link</a></p>
+<p><a href="https://github.com/imk13/imk13/blob/main/Mukesh-Resume-2026-v11.pdf" target="_blank">Resume Link</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
