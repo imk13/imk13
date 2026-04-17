@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **space tech** just for fun
 
-- 📄 Know about my experiences - [Journey | Resume](https://github.com/imk13/imk13/blob/main/Mukesh-Resume-2026-v11.pdf)
+- 📄 Know about my experiences - [Resume](https://github.com/imk13/imk13/blob/main/Mukesh-Resume-2026-v12.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
