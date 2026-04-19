@@ -33,7 +33,7 @@
 <h3 align="left">Languages and tools</h3>
 <table  border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" valign="middle"><a href="https://aerospike.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/aerospike/aerospike-icon.svg" alt="Aerospike" width="56" height="56"/></a></td>
+    <td align="center" valign="middle"><a href="https://aerospike.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/aerospike/aerospike-original.svg" alt="Aerospike" width="56" height="56"/></a></td>
     <td align="center" valign="middle"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="56" height="56"/></a></td>
     <td align="center" valign="middle"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="56" height="56"/></a></td>
     <td align="center" valign="middle"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="56" height="56"/></a></td>
