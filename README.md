@@ -23,7 +23,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/c/bitlearning" target="_blank" rel="noreferrer noopener">
+      <a href="https://www.youtube.com/@bitlearnings" target="_blank" rel="noreferrer noopener">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="36" width="48" />
       </a>
     </td>
@@ -75,7 +75,7 @@
   <tr>
     <td align="center" valign="middle"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="56" height="56"/></a></td>
     <td align="center" valign="middle"><a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="56" height="56"/></a></td>
-    <td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td></td><td></td><td></td><td></td><td></td><td></td>
   </tr>
 </table>
 
