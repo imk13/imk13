@@ -5,7 +5,7 @@
 
 <p>I care about technology and programming, and I also enjoy entrepreneurship, gaming, and travel.</p>
 
-- 🔭 Exploring applied AI to build intelligent platforms by combining LLMs with scalable distributed systems with Java + Dropwizard project
+- 🔭 Exploring applied AI to build intelligent platforms by combining LLMs with scalable distributed systems.
 - 🌱 I’m exploring **space tech**—just for fun
 - 📄 Learn more about my experience: [Resume](https://github.com/imk13/imk13/blob/main/Mukesh_Kumar_FlowCV_Resume_Latest.pdf)
 
